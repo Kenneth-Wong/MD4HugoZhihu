@@ -7,7 +7,6 @@
 - 使用腾讯云COS作为图床；
 - 使用Hugo（[Academia项目](https://wowchemy.com/docs/getting-started/)）部署个人Blog（参考其官方文档可以方便地建立起个人静态网站）；
 - 知乎发布文章。
-- 详细代码请前往[Kenneth-Wong/MD4HugoZhihu](https://github.com/Kenneth-Wong/MD4HugoZhihu)，觉得好可以留下一星哈
 
 
 
